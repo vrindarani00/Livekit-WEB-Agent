@@ -76,7 +76,7 @@ python main.py start
 See `requirements.txt` for the full list:
 
 ```
-livekit-agents[openai, cartesia, elevenlabs, deepgram, silero, turn-detector, mcp]>=1.0
+livekit-agents[openai]>=1.0
 python-dotenv>=1.0
 duckduckgo-search>=8.0
 ```
